@@ -23,7 +23,10 @@
 3. ***Desafio Go!***
 
     Arquivos em: `./golang`
-
+    
+    - GitHub, repositório da aplicação: https://github.com/leticiapillar/gcp-go-greeting
+    - Pull request integrado com o GCP: https://github.com/leticiapillar/gcp-go-greeting/pull/1
+    - Imagem no Docker Hub: https://hub.docker.com/r/leticiapillar/go-greeting
 
 --
 
@@ -31,3 +34,4 @@
   * [Code.education](https://code.education/cursos-online/)
   * [Stackoverflow: change-index-html-nginx-kubernetes-deployment](https://stackoverflow.com/questions/49904784/change-index-html-nginx-kubernetes-deployment)
   * [Kubernetes Docs: Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+  * [Go Docs: Writing Web Applications ](https://golang.org/doc/articles/wiki/)
